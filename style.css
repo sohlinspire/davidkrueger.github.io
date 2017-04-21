@@ -2,9 +2,15 @@ h1 {
   font-family: Sans-Serif;
   text-align: center;
 }
-p1 {
+h5 {
   text-align: center;
 }
 h3 {
   font-family: Sans-Serif;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
 }
