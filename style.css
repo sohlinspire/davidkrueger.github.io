@@ -8,4 +8,10 @@ h5 {
 h3 {
   font-family: Sans-Serif;
 }
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
 
