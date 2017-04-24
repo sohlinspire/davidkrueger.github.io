@@ -8,10 +8,12 @@ h5 {
 h3 {
   font-family: Sans-Serif;
 }
-.alignleft {
-	float: left;
+body {
+     width: 7.5in;
+     padding: 0.5in;
 }
-.alignright {
-	float: right;
+ table.example {
+ width: 90%;
 }
+
 
