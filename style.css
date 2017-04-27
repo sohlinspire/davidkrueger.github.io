@@ -1,19 +1,29 @@
 h1 {
-  font-family: Sans-Serif;
+  font-family: Helvetica, san-serif;
   text-align: center;
 }
+
 h5 {
   text-align: center;
 }
+
 h3 {
-  font-family: Sans-Serif;
+  font-family: Helvetica; san-serif;
+  font-size: 12pt;
 }
+
+p {
+  text-align: center;
+  font-size: 10pt;
+}
+
 body {
-     width: 7.5in;
-     padding: 0.5in;
+  width: 7.5in;
+  padding: 0.5in;
 }
- table.example {
- width: 90%;
+
+table.example {
+  width: 90%;
 }
 
 
